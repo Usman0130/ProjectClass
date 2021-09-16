@@ -53,9 +53,17 @@ public class Hotel {
 		
 		System.out.println("method 1");
 		System.out.println("method 2");
+		System.out.println("malaysia");
+		System.out.println("asia");
+		System.out.println("londo");
+		System.out.println("uk");
+		System.out.println("us");
+
 		
 		
 		
+		
+
 		
 		
 		
