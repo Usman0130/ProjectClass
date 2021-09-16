@@ -51,10 +51,11 @@ public class Hotel {
 			System.out.println("invalid");
 		}
 		
-		
-		
-		
-		
+		System.out.println("malaysia");
+		System.out.println("asia");
+		System.out.println("londo");
+		System.out.println("uk");
+		System.out.println("us");
 		
 		
 		
